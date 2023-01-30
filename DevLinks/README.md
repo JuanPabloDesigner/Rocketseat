@@ -1,5 +1,8 @@
 <h1 align='center'> Projeto Concluído com sucesso!!! </h1>
 
+- Consertei a margem do #switch para 8px;
+- Adicionei o atributo alt na função toggleMode() para alterar junto com o src.
+
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
